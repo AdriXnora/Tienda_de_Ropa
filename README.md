@@ -1,5 +1,6 @@
 # Tienda_de_Ropa
-Aplicacion de Java para la gestion de inventario de una tienda de ropa.
+Aplicacion de Java para el control de inventario de una tienda de ropa.
+
 #Integrantes:
 •	Adriana Bajaña
 •	Nora Cedillo
